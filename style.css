@@ -1,4 +1,10 @@
-header{
+.cabecalho{
     background-color: rgb(241, 178, 223);
     color: white;
+    display: flex;
+    justify-content: space-around;
 }
+
+.cabecalho-imagem { width: 10%;}
+
+.cabecalho-lista-item { text-align: center;}
